@@ -1,38 +1,46 @@
-# Journal
+---
+title: "keyboard"
+author: "milesmuehlbach"
+description: "A custom 65% keyboard with a rotary encoder."
+created_at: "2026-07-09"
+---
 
-## #1: GitHub Repo and Planning
+# #1: GitHub Repo and Planning
 
 - **Date:** July 9, 2026
-- **Time:** 1h 30m
 
 I spent about an hour setting up the GitHub repo and doing research on different types of keyboards and layouts. I decided on a rotary encoder and a screen, with a 65% layout and tactile switches. I considered an OLED screen but I felt like it was out of scope for my first keyboard project.
 
 ![rough layout](imgs/roughlayout.jpeg)
 *my rough layout on paper as I tried to figure out what the keyboard would look like*
 
-## #2: Schematic
+**Total time spent: 1h 30m**
+
+# #2: Schematic
 
 - **Date:** July 10 2026
-- **Time:**  2h 30m
 
 I put together the keyboard schematic in KiCad using a Raspberry Pi Pico, 68 key switches, and a diode for each key. I also included a rotary encoder with a push switch. It took me a while to settle on layout design and just get the general feel for kicad, as well as understanding how keyboards work under the hood. I'm following [keeb's](https://keeb.hackclub.com/docs/getting-started/) tutorial for this project.
 
 ![schematic](imgs/schematic.png)
 
-## #3: YAY TRACING!!! and layout
+**Total time spent: 2h 30m**
+
+# #3: YAY TRACING!!! and layout
 
 - **Date:** July 12 2026
-- **Time:** 6h
 
 I laid out the keyboard PCB in KiCad, arranging the switch footprints into the keyboard layout and placing the diodes, Pico, and encoder. This ended up taking much much longer than I initially expected because as I went to design I identified many pitfalls in my schematic etc, so I had to go back and modify the layout and schematic multiple times. I then did all the tracing. I had to add room at the top of the board and build a recess for the usb cable bc the traces took up more space than I initially thought. I also added a decent amount of silkscreen with things that are relevant to me! I'm not the best artist so I wasn't able to make it super cool or anything, but svgs of things relevant to me was good enough for now!
 ![pcb layout](imgs/pcblayout.png)
- 
-## #4: Case
+
+**Total time spent: 6h**
+
+# #4: Case
 
 - **Date:** Oct 11 2026
-- **Time:** 3h
 
 Woohoo I finally got the motivation to pick this project back up after like 3 months!!
 Time for the case. I've never used onshape before so it took me a little bit to get used to it, but now that I've gotten used to it I now have a basic tray style case. I still need to make the screw holes for the tray and the top plate. Figuring out how they all interface cleanly in cad is just a little bit confusing.
 ![tray case](imgs/kbdcase1.png)
 
+**Total time spent: 3h**
