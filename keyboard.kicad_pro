@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "3dmodels/keyboardexport.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -648,7 +649,7 @@
         "uuid": "7b2cf5b5-81dd-4249-b4b0-aa60de15c264"
       }
     ],
-    "used_designators": "#PWR1,J1-2,H1-4,S1-5,SW1-70,D1-69,A1",
+    "used_designators": "#PWR1,D1-69,A1,J1-2,H1-4,S1-5,SW1-70",
     "variants": []
   },
   "sheets": [

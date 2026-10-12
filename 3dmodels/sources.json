@@ -1,0 +1,108 @@
+[
+  {
+    "file": "kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step",
+    "sha256": "9704292191fcb13b3dfc88c1e572df18313ac20023bb230486c878d8dddfdb54"
+  },
+  {
+    "file": "kicad/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_H2.54mm.step",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_H2.54mm.step",
+    "sha256": "7200015d6d69c42984712be4fa32f12aa337f07b9e521c888d0f67cb56f9b03b"
+  },
+  {
+    "file": "kicad/Module.3dshapes/RaspberryPi_Pico_H.step",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Module.3dshapes/RaspberryPi_Pico_H.step",
+    "sha256": "147ab16e85e160c24bd843c59abcdd64d10e3942d9018798da8f55a79892c705"
+  },
+  {
+    "file": "kicad/Module.3dshapes/RaspberryPi_Pico_PinSockets_H8.50mm.step",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Module.3dshapes/RaspberryPi_Pico_PinSockets_H8.50mm.step",
+    "sha256": "0ce5d4c3ac5ac67ff35a3a0d1b7ddcdaa359c3a8a191402ec81d792cc52fe870"
+  },
+  {
+    "file": "kicad/Module.3dshapes/RaspberryPi_Pico_WH.step",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Module.3dshapes/RaspberryPi_Pico_WH.step",
+    "sha256": "d9d4550accc3b3c1fa90c7d605f7a21231829201e9984c843016a56101b0cad0"
+  },
+  {
+    "file": "kicad/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_H2.54mm.step",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_H2.54mm.step",
+    "sha256": "769bace8ca02c5fec3ce4e8e05e0abb40e618dd0505bdbd1a720b203f4ddc711"
+  },
+  {
+    "file": "kicad/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles.step",
+    "source": "https://gitea.mcflyer.ru/McFLY/kicad_libs/raw/commit/01f41db82306013ce1139556f2b2bf83afdd0a1e/my_additions.3d/EC11_Rotary_Encoder_Switched_20mm.step",
+    "sha256": "caa77358863ac31ae4a314d92678287a07cd9fd614e8348f13594d4f0275b93f"
+  },
+  {
+    "file": "switches/Cherry MX.STEP",
+    "source": "https://raw.githubusercontent.com/monotech/Osborne1-KeyboardReplacement/a0fe6503e7eb6de96bd078a01d9306bd255390a9/cherry%20mx.STEP",
+    "sha256": "6367045a97305a6f57781d3f608d407a1e93c622ffedca22dc18ad70a5edaf07"
+  },
+  {
+    "file": "keycaps/DSA 1.25u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%201.25u.step",
+    "sha256": "87ee2c15ff0845b19b5d3659f99e9bfedc876c5e2cbaff4e78a803cfbfd5b6cb"
+  },
+  {
+    "file": "keycaps/DSA 1.5u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%201.5u.step",
+    "sha256": "9a19bd62863b881c6776a1e1bff78dacfa0f23f48f1155d60084a513f570ba37"
+  },
+  {
+    "file": "keycaps/DSA 1.75u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%201.75u.step",
+    "sha256": "ade9858a6162c93450711b6a3353bd9e3814f7c3e3b0d54d19b366c8fdb72f19"
+  },
+  {
+    "file": "keycaps/DSA 1u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%201u.step",
+    "sha256": "12f60ced20ce43a41a4386ad3e73ffb5e8fb2178d374d3673ae14b0b56b14beb"
+  },
+  {
+    "file": "keycaps/DSA 2.25u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%202.25u.step",
+    "sha256": "9e3c0f69f31fe525560d88f2786f05d076744ce3235fc84c55f46a5cd8fe105d"
+  },
+  {
+    "file": "keycaps/DSA 2.75u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%202.75u.step",
+    "sha256": "b1e6f8b6f0ab3b8447ad7f7f9bd27bed1a6d8b3112ba7a5d7f93c3d1d7845d53"
+  },
+  {
+    "file": "keycaps/DSA 2u.step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/DSA%202u.step",
+    "sha256": "e64856104e0263b8f11e5bb285e28635ee8addb8233256b42b54731b56e69ff4"
+  },
+  {
+    "file": "keycaps/DSA Spacebar 6.25u (50mm spacing).step",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/spacebars/DSA%20Spacebar%206.25u%20%2850mm%20spacing%29.step",
+    "sha256": "65ab393ba9872b4722a61b571c2d30fdb8d65faae213bd6e413046f7dbf412c2"
+  },
+  {
+    "file": "switches/Stabilizer - close.STEP",
+    "source": "https://raw.githubusercontent.com/monotech/Osborne1-KeyboardReplacement/a0fe6503e7eb6de96bd078a01d9306bd255390a9/Stabilizer%20-%20close.STEP",
+    "sha256": "64b3f1731561a4e25958a4957e664e6e7012010f570bec8990903974eabd7ea4"
+  },
+  {
+    "file": "licenses/dsa-LICENSE",
+    "source": "https://raw.githubusercontent.com/anhthang/dsa-keycap/efc08d0a025057ede925347e8b07d85971778f2b/LICENSE",
+    "sha256": "0aece252e5d258737a4d2652378672f3ae24d2e831a0679a6324ebb415a66dac"
+  },
+  {
+    "file": "licenses/mx-LICENSE",
+    "source": "https://raw.githubusercontent.com/monotech/Osborne1-KeyboardReplacement/a0fe6503e7eb6de96bd078a01d9306bd255390a9/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "file": "licenses/kicad-LICENSE",
+    "source": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/LICENSE.md",
+    "sha256": "45d2bce75e5a4208f5afb01b8fb2c406e700371c4fe2b5f5cd5c443d46db4d8f"
+  },
+  {
+    "file": "switches/Stabilizer 6.25u.step",
+    "derived_from": "switches/Stabilizer - close.STEP",
+    "modification": "Housing spacing extended from 23.9 to 100.0125 mm; wire extended in X; original housings retained.",
+    "sha256": "e4d7595ad5b249eb179c52f08a30ab6414723a46272f8f39912c2fd9a7496ccb"
+  }
+]

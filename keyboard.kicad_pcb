@@ -368,7 +368,7 @@
 			(uuid "b2957ed1-9126-438e-b199-58b221bf4cd3")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -379,7 +379,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -672,7 +672,7 @@
 			(uuid "b5e68394-fd63-43f3-bf91-435eb0e8edb2")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -683,7 +683,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -985,7 +985,7 @@
 			(uuid "15f0dcbc-8843-4ea3-9c7f-5b9666082ca3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1413,7 +1413,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Stabilizer - close.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Stabilizer - close.STEP"
 			(offset
 				(xyz -12 0 2)
 			)
@@ -1706,7 +1706,7 @@
 			(uuid "1b5e674e-a2d4-4631-97c2-a1938b8d51c9")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -1717,7 +1717,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -2010,7 +2010,7 @@
 			(uuid "b1f119f1-b62c-4999-820b-1aa81ec820f8")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -2021,7 +2021,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -2323,7 +2323,7 @@
 			(uuid "5f0e4168-a4ba-4c54-bb58-4177e2bf16da")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2616,7 +2616,7 @@
 			(uuid "88b41c85-675e-443d-aac5-e0d19285fa90")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -2627,7 +2627,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -2920,7 +2920,7 @@
 			(uuid "a036ce76-7942-471a-a0ec-127789ba1f41")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -2931,7 +2931,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -3224,7 +3224,7 @@
 			(uuid "e13c79a2-6bb2-4c2d-8fcf-894f9d3c61b4")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -3235,7 +3235,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -3537,7 +3537,7 @@
 			(uuid "33de1800-c8fa-4758-9d1f-fa8781dc4170")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3839,7 +3839,7 @@
 			(uuid "bf60b8a6-95bc-4968-b8f8-a8fd49591271")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4132,7 +4132,7 @@
 			(uuid "89ebd47a-b016-4675-a1af-e0f7790b73fc")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -4143,7 +4143,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -4445,7 +4445,7 @@
 			(uuid "8c21112b-162f-4334-93a8-632a0197fdf2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4737,7 +4737,7 @@
 			(uuid "e6336be3-47b2-4ba4-8145-161bd7e1721b")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -4748,7 +4748,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -5050,7 +5050,7 @@
 			(uuid "f0c38c57-d211-492b-a4e4-afac97b7d65b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5343,7 +5343,7 @@
 			(uuid "83bc2011-30af-4004-96b5-c8af970d1cb7")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -5354,7 +5354,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -5656,7 +5656,7 @@
 			(uuid "41ef652c-7cc5-4e2c-943e-3d5680b31cc9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5949,7 +5949,7 @@
 			(uuid "ad6ebc02-60e0-44ab-8b54-f7da8d8c2e28")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -5960,7 +5960,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -6262,7 +6262,7 @@
 			(uuid "f0ca4983-baaa-45d4-a964-db66192c9daf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6564,7 +6564,7 @@
 			(uuid "bfe1ce8d-389b-4c72-a989-b036929321ed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6857,7 +6857,7 @@
 			(uuid "6e1cc730-75b7-4b5b-81a0-8c5179514b2d")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -6868,7 +6868,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -7170,7 +7170,7 @@
 			(uuid "ca7b4b95-8e56-4351-a4fc-905b6e39e7db")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7463,7 +7463,7 @@
 			(uuid "cff061c8-99cb-4d8d-b8a9-f4ac7744f28b")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -7474,7 +7474,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -7767,7 +7767,7 @@
 			(uuid "2aabfd91-3891-4082-9c6a-053aa1a1b5bf")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -7778,7 +7778,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 2.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 2.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -8080,7 +8080,7 @@
 			(uuid "49c9e319-2e40-4736-ac0b-1395c5357132")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8372,7 +8372,7 @@
 			(uuid "d678c8ab-64e0-4828-bdf7-93e4410c6010")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -8383,7 +8383,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -8675,7 +8675,7 @@
 			(uuid "1276e0a4-76b9-4e8f-94c9-35d20bff5827")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -8686,7 +8686,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -8988,7 +8988,7 @@
 			(uuid "11627c02-be3b-4828-95ea-af1262cd6211")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9290,7 +9290,7 @@
 			(uuid "10174301-f50a-4cdd-8d2e-8d1af69cea89")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9592,7 +9592,7 @@
 			(uuid "67c68df5-df8f-4d33-b228-64f3e5ef7b22")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9885,7 +9885,7 @@
 			(uuid "fdf70991-f4d6-4bec-b094-494dc7366aa2")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -9896,7 +9896,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -10198,7 +10198,7 @@
 			(uuid "97fee9c3-27f4-4f5c-b2ac-a8c61bf06c46")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10500,7 +10500,7 @@
 			(uuid "30b44747-a488-42f7-ae1d-d19b0ec03611")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10793,7 +10793,7 @@
 			(uuid "22c52bbb-98c8-45e9-9b2a-2d92036501d3")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -10804,7 +10804,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -11096,7 +11096,7 @@
 			(uuid "edb1b3a9-f4bf-49d6-874d-64c6d18ab9ca")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -11107,7 +11107,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1.5u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.5u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -11409,7 +11409,7 @@
 			(uuid "cba7c300-1e01-4df2-b506-d91852e58663")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11711,7 +11711,7 @@
 			(uuid "20549060-c22f-48f3-b1dd-c176d9dcf480")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12013,7 +12013,7 @@
 			(uuid "0cc9194e-df32-427c-a548-64c2aab58607")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12306,7 +12306,7 @@
 			(uuid "47f371d3-f89e-49db-be2d-9c900a23efa9")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -12317,7 +12317,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -12610,7 +12610,7 @@
 			(uuid "572856d3-5202-4741-87d4-1d412d2d3a3e")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -12621,7 +12621,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -12914,7 +12914,7 @@
 			(uuid "5a3c2ad4-a698-4500-96ce-72ddd0f4241e")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -12925,7 +12925,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -13218,7 +13218,7 @@
 			(uuid "0efdfcb7-ad11-4035-ae51-10cf6111f9fc")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -13229,7 +13229,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -13531,7 +13531,7 @@
 			(uuid "eedcd0ae-0d0b-4bc9-8af2-54bd00cce52e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13824,7 +13824,7 @@
 			(uuid "de7fe7c7-c832-4968-b673-ec360822c89f")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -13835,7 +13835,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -14137,7 +14137,7 @@
 			(uuid "06c9991a-0d46-4db4-a4cf-88e1ecd5dc76")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14430,7 +14430,7 @@
 			(uuid "e7ece54b-a979-4058-8122-45d4effdd9a6")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -14441,7 +14441,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -14734,7 +14734,7 @@
 			(uuid "2982d581-a433-45bf-8da4-94e15a68c71d")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -14745,7 +14745,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -15038,7 +15038,7 @@
 			(uuid "da6b7e04-7398-4f46-b305-6dc3e6f35a2b")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -15049,7 +15049,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -15503,7 +15503,7 @@
 			(uuid "aa776b6f-2a71-4a4b-a515-b9be3f5ae12b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15805,7 +15805,7 @@
 			(uuid "ea343dfe-56d2-4cf6-adaf-8e4e2d0de15d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16270,7 +16270,7 @@
 			(uuid "25bc3127-02ff-40b9-857d-20533597d224")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -16281,7 +16281,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 2.75u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 2.75u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -16583,7 +16583,7 @@
 			(uuid "4b200b05-13e2-42fa-93af-e8fcaf8b4e87")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16885,7 +16885,7 @@
 			(uuid "0473d3c9-850c-44aa-b0fc-f378b2a4aea7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17178,7 +17178,7 @@
 			(uuid "ecbd0390-7b67-4a2a-8bc0-a048cfad4a00")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -17189,7 +17189,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -17491,7 +17491,7 @@
 			(uuid "61251789-f5a6-4440-9cef-7926cb0cea40")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17784,7 +17784,7 @@
 			(uuid "d25cfe13-d339-4e06-a271-09e0e86ec13e")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -17795,7 +17795,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -18097,7 +18097,7 @@
 			(uuid "0f35a0a8-c8f0-4743-99ac-0baf9f4f3f89")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18399,7 +18399,7 @@
 			(uuid "3a7776e3-e2da-4b9e-addb-1632253c8eb4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18701,7 +18701,7 @@
 			(uuid "af987e17-82f4-4a4f-ad9d-9dbb16971025")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19243,7 +19243,7 @@
 			(uuid "26b71438-2475-4be6-8436-9276423fdb11")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -19254,7 +19254,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -19547,7 +19547,7 @@
 			(uuid "3c9c8062-ee40-4690-a9b6-dafba1512f41")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -19558,7 +19558,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -19860,7 +19860,7 @@
 			(uuid "2dc53838-8144-4386-a3d1-08d3c9782a58")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20162,7 +20162,7 @@
 			(uuid "2561176d-c7ec-4646-8838-5c388f5d9805")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20455,7 +20455,7 @@
 			(uuid "de67e1e9-246b-4bce-8640-1a3ad512e7a6")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -20466,7 +20466,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -20759,7 +20759,7 @@
 			(uuid "b0b9c318-79d9-4abb-a84c-9b6284c60b35")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -20770,7 +20770,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -21063,7 +21063,7 @@
 			(uuid "47bc3082-d3c9-42ad-ad64-34d8e63fe873")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -21074,7 +21074,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -21376,7 +21376,7 @@
 			(uuid "2e3228ab-0617-4360-8220-e537bfa910dd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21678,7 +21678,7 @@
 			(uuid "752f1cae-1c3b-4e10-a913-790586aeb993")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21980,7 +21980,7 @@
 			(uuid "f2e30bee-bdfc-46b7-8c5b-67216df26f88")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22273,7 +22273,7 @@
 			(uuid "55bf8530-9740-4056-88ca-1493b7166f84")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -22284,7 +22284,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -22707,15 +22707,15 @@
 			(uuid "239e6345-834c-40f7-bd0a-522440aa203d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 0 0 90)
 			)
 		)
 	)
@@ -23571,7 +23571,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Stabilizer - close.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Stabilizer - close.STEP"
 			(offset
 				(xyz -12 0 2)
 			)
@@ -23863,7 +23863,7 @@
 			(uuid "1ae62210-653f-4b28-888d-99376fa9d2f0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -23874,7 +23874,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -24167,7 +24167,7 @@
 			(uuid "f3d56755-1e3a-4b3e-a74f-d51b1c36a1f0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -24178,7 +24178,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -24480,7 +24480,7 @@
 			(uuid "d5a2822e-6554-4c69-bca3-73798e562278")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24773,7 +24773,7 @@
 			(uuid "aff38f39-1f86-4dec-b12b-e493757c67d1")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -24784,7 +24784,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -25077,7 +25077,7 @@
 			(uuid "1c82e653-5558-4d2b-a32c-451df4935155")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -25088,7 +25088,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -25497,7 +25497,7 @@
 			(uuid "26cc9add-044b-4dce-950a-985afaa2e932")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -25508,7 +25508,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -25810,7 +25810,7 @@
 			(uuid "88c0b428-0069-45c5-abdb-97d2884e9529")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26112,7 +26112,7 @@
 			(uuid "8d638cee-08cd-4a77-9ce3-f0e83529f8c8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26405,7 +26405,7 @@
 			(uuid "33d29ac0-3618-433a-a203-f537dad19cf3")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -26416,7 +26416,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -26718,7 +26718,7 @@
 			(uuid "3f3eafc9-69aa-40fd-ba51-617477115028")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27020,7 +27020,7 @@
 			(uuid "b14ee9d4-409b-4ccc-a665-bf92e6871f3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27322,7 +27322,7 @@
 			(uuid "4c455a6c-219c-444c-950b-920527785694")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27615,7 +27615,7 @@
 			(uuid "0102d4f6-eaef-4e92-a23c-8a64e2fea7e5")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -27626,7 +27626,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -27928,7 +27928,7 @@
 			(uuid "d97c7f4c-a5e8-4f8f-a01a-490237dc60a2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28230,7 +28230,7 @@
 			(uuid "24a63ca3-402c-4ded-8458-9c08f0180cd7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28532,7 +28532,7 @@
 			(uuid "fd22fe9a-5a0f-4694-91da-bd7d8ca938bf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28825,7 +28825,7 @@
 			(uuid "6d9ba2e6-e7c6-4633-8256-5a8b3465f5ed")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -28836,7 +28836,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -29128,7 +29128,7 @@
 			(uuid "6dba83b7-e669-4110-b769-2e425fa872ac")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -29139,7 +29139,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -29441,7 +29441,7 @@
 			(uuid "0485759f-457c-4417-8064-0e05b154c105")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29743,7 +29743,7 @@
 			(uuid "9c50f9cf-40ce-406a-92d1-33f922daf00d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30036,7 +30036,7 @@
 			(uuid "3a7b7cb1-738d-42c7-a11c-e1db4858b267")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -30047,7 +30047,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA Spacebar 6.25u (50mm spacing).step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA Spacebar 6.25u (50mm spacing).step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -30340,7 +30340,7 @@
 			(uuid "0660c4ae-9466-434a-9bca-4bb8aa317d39")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -30351,7 +30351,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -30644,7 +30644,7 @@
 			(uuid "fae43158-6d49-446a-a3fe-b9144849efeb")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -30655,7 +30655,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -30957,7 +30957,7 @@
 			(uuid "fbe3c0d8-741b-4aa7-bf29-4a4576a9446a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31259,7 +31259,7 @@
 			(uuid "38e12317-8c70-4a24-84e2-c1a8748c4faf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31561,7 +31561,7 @@
 			(uuid "b85d6581-0cca-4934-95a9-582c6886c7ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31989,7 +31989,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Stabilizer - close.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Stabilizer - close.STEP"
 			(offset
 				(xyz -12 0 2)
 			)
@@ -32282,7 +32282,7 @@
 			(uuid "5711676c-fa7a-460d-9ad1-4bfaa42d1f8f")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -32293,7 +32293,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -32595,7 +32595,7 @@
 			(uuid "bb44df68-ff60-4b11-9343-66eab8afb548")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32897,7 +32897,7 @@
 			(uuid "3ac61c7a-cdff-4c5f-bfba-57d1aede7116")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33190,7 +33190,7 @@
 			(uuid "1704da25-f454-4b86-868d-bae7ebf21282")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -33201,7 +33201,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 2u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 2u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -33503,7 +33503,7 @@
 			(uuid "bfd26b5c-a903-4c51-bb9e-4071a354f918")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33805,7 +33805,7 @@
 			(uuid "3c78ffb5-9971-40af-89bf-fc717ec23591")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34107,7 +34107,7 @@
 			(uuid "f8df1aa6-69b7-4d24-963d-f892f8fdf7a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34513,7 +34513,7 @@
 			(uuid "d2f6a94c-7aaa-4417-94c6-59d57eea36c0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -34524,7 +34524,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -34826,7 +34826,7 @@
 			(uuid "e8f08943-6dbc-4e8e-802f-ac5cdd043cd4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35119,7 +35119,7 @@
 			(uuid "1990b84f-77ab-475f-ab0d-e25d5a97e9a1")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -35130,7 +35130,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -35423,7 +35423,7 @@
 			(uuid "382417a4-9e9c-4289-ae2f-0a291c444948")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -35434,7 +35434,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -35727,7 +35727,7 @@
 			(uuid "ddea7deb-464c-4b62-8ad1-27d03a0a8a0d")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -35738,7 +35738,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -36031,7 +36031,7 @@
 			(uuid "2b1ef013-e61b-49e8-ae20-37b6b59cce6b")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -36042,7 +36042,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 2.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 2.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -36344,7 +36344,7 @@
 			(uuid "e3dc7657-fa03-43fd-85b8-6efd6f3c0a08")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36637,7 +36637,7 @@
 			(uuid "cd17803e-c968-47e4-8402-f40365f5afa0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -36648,7 +36648,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -36950,7 +36950,7 @@
 			(uuid "600fa1f3-ff72-49c2-bc9c-6c12fed921c0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37242,7 +37242,7 @@
 			(uuid "e2da4ea8-59f3-4f13-a6f9-e39959b265f8")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -37253,7 +37253,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1.5u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.5u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -38768,7 +38768,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_PinSockets_H8.50mm.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Module.3dshapes/RaspberryPi_Pico_PinSockets_H8.50mm.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 -24.13 0)
@@ -38780,7 +38780,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_H2.54mm.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_H2.54mm.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 -24.13 0)
@@ -38792,7 +38792,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Module.3dshapes/RaspberryPi_Pico_H.step"
 			(offset
 				(xyz 8.89 -24.13 0)
 			)
@@ -38803,7 +38803,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_H2.54mm.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_H2.54mm.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 -24.13 0)
@@ -38815,7 +38815,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Module.3dshapes/RaspberryPi_Pico_WH.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 -24.13 0)
@@ -39686,7 +39686,7 @@
 			(uuid "94959f2e-ca66-4529-b67e-daba94941979")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39979,7 +39979,7 @@
 			(uuid "85e243c8-34e2-463a-a9c9-1c47fdd5be9b")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -39990,7 +39990,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -40292,7 +40292,7 @@
 			(uuid "987477ff-6fc1-416d-9082-38396ecb1e46")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40594,7 +40594,7 @@
 			(uuid "f9054f2c-1289-4bb3-a961-262196d5dd68")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40896,7 +40896,7 @@
 			(uuid "533fcaf2-f20b-4931-a3ab-cb3c22e4b0e6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41189,7 +41189,7 @@
 			(uuid "ad56114f-1ffc-4b83-a95c-f50f9ce25371")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -41200,7 +41200,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -41502,7 +41502,7 @@
 			(uuid "8eef554d-ac26-4bb6-a68e-da938f7329f6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41795,7 +41795,7 @@
 			(uuid "8bad966d-72a9-4651-a408-79d7d30e3c4d")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -41806,7 +41806,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -42214,7 +42214,7 @@
 			(uuid "d7d3b48a-14ce-414d-a6a7-4d649e8535f0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -42225,7 +42225,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -42517,7 +42517,7 @@
 			(uuid "9e1cc698-509a-4526-900b-370f9a27c606")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -42528,7 +42528,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1.75u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.75u.step"
 			(offset
 				(xyz 9.5 0 7)
 			)
@@ -42830,7 +42830,7 @@
 			(uuid "d1d15b18-5657-4a9a-9659-1f0193c1322c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43258,7 +43258,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Stabilizer - close.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Stabilizer - close.STEP"
 			(offset
 				(xyz -12 0 2)
 			)
@@ -43560,7 +43560,7 @@
 			(uuid "ceaff43b-95ee-4c03-ac52-d679c2a0858f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43853,7 +43853,7 @@
 			(uuid "e74eae13-8bbe-4ac1-9406-f89f903035a0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -43864,7 +43864,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -44157,7 +44157,7 @@
 			(uuid "b03db683-7051-452f-a551-7a0d3c401866")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -44168,7 +44168,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -44576,7 +44576,7 @@
 			(uuid "185f2e82-b2e7-44df-9b66-9c1b1262614a")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -44587,7 +44587,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DAS 1.25u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1.25u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -45021,7 +45021,7 @@
 			(uuid "76055f72-dde8-4be0-a289-9f7abe16f957")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -45032,7 +45032,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -45334,7 +45334,7 @@
 			(uuid "41495a93-dee4-4421-8cf2-7f78a3e86388")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45636,7 +45636,7 @@
 			(uuid "51b2a6ee-c97e-45e9-a1d1-02ce41105374")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45938,7 +45938,7 @@
 			(uuid "101b14f8-6413-4918-9d89-85f85c7f035f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46231,7 +46231,7 @@
 			(uuid "20fdcfd3-2343-45b2-8877-5e898c2495aa")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -46242,7 +46242,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -46535,7 +46535,7 @@
 			(uuid "c90b6b24-b953-42fe-8d32-99d11d2ff5e0")
 		)
 		(embedded_fonts no)
-		(model "/home/miles/Downloads/Cherry MX.STEP"
+		(model "${KIPRJMOD}/3dmodels/switches/Cherry MX.STEP"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -46546,7 +46546,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/miles/Downloads/DSA 1u.step"
+		(model "${KIPRJMOD}/3dmodels/keycaps/DSA 1u.step"
 			(offset
 				(xyz 0 0 7)
 			)
@@ -46848,7 +46848,7 @@
 			(uuid "8b051819-e0e9-45ba-ad10-e2177b687916")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47276,6 +47276,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/switches/Stabilizer 6.25u.step"
+			(offset
+				(xyz -50.00625 0 2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -47567,7 +47578,7 @@
 			(uuid "e2604bd4-1c1f-4c59-9253-93e376f8a63e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/kicad/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51901,6 +51912,78 @@
 		(uuid "701cd8ba-f241-4d8b-abb7-f5e6475c4f0a")
 	)
 	(segment
+		(start 401.575 174.4125)
+		(end 402.875 175.7125)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "05552b5c-78ac-4127-b4b6-f90abe32ad39")
+	)
+	(segment
+		(start 370.9875 172.8675)
+		(end 369.8875 171.7675)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "3e89e424-a5b4-4a17-aab8-9a826341ccda")
+	)
+	(segment
+		(start 395.300735 185.025243)
+		(end 377.722447 185.025243)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "4484972f-560e-4bb4-9f6c-1c18e3bf57f4")
+	)
+	(segment
+		(start 402.875 175.7125)
+		(end 402.875 177.450978)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "461a1c60-3adb-4bd0-a627-695cc64f2cfe")
+	)
+	(segment
+		(start 402.875 177.450978)
+		(end 395.300735 185.025243)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "6a404a2f-e9fd-401b-a4ea-791b9b2861b4")
+	)
+	(segment
+		(start 401.575 174.4125)
+		(end 404.075 171.9125)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "9551a87d-9d19-48dc-9ec3-3d8ef48f24a6")
+	)
+	(segment
+		(start 377.722447 185.025243)
+		(end 370.9875 178.290296)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "aa9bdf85-c661-45b7-ba52-cf6895b68b97")
+	)
+	(segment
+		(start 404.075 171.9125)
+		(end 416.075 171.9125)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "c73e824e-f67d-4c56-9eed-745e66681225")
+	)
+	(segment
+		(start 370.9875 178.290296)
+		(end 370.9875 172.8675)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "e7078ba4-ced1-4da3-aa7f-1bbb6c2ae895")
+	)
+	(segment
 		(start 409.654899 175.8125)
 		(end 408.495101 175.8125)
 		(width 0.2)
@@ -52307,78 +52390,6 @@
 		(layer "F.Cu")
 		(net "Net-(D62-A)")
 		(uuid "9e8cb2e8-7011-446f-b3c5-1bf9a70d5df7")
-	)
-	(segment
-		(start 401.575 174.4125)
-		(end 402.875 175.7125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "05552b5c-78ac-4127-b4b6-f90abe32ad39")
-	)
-	(segment
-		(start 370.9875 172.8675)
-		(end 369.8875 171.7675)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "3e89e424-a5b4-4a17-aab8-9a826341ccda")
-	)
-	(segment
-		(start 395.300735 185.025243)
-		(end 377.722447 185.025243)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "4484972f-560e-4bb4-9f6c-1c18e3bf57f4")
-	)
-	(segment
-		(start 402.875 175.7125)
-		(end 402.875 177.450978)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "461a1c60-3adb-4bd0-a627-695cc64f2cfe")
-	)
-	(segment
-		(start 402.875 177.450978)
-		(end 395.300735 185.025243)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "6a404a2f-e9fd-401b-a4ea-791b9b2861b4")
-	)
-	(segment
-		(start 401.575 174.4125)
-		(end 404.075 171.9125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "9551a87d-9d19-48dc-9ec3-3d8ef48f24a6")
-	)
-	(segment
-		(start 377.722447 185.025243)
-		(end 370.9875 178.290296)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "aa9bdf85-c661-45b7-ba52-cf6895b68b97")
-	)
-	(segment
-		(start 404.075 171.9125)
-		(end 416.075 171.9125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "c73e824e-f67d-4c56-9eed-745e66681225")
-	)
-	(segment
-		(start 370.9875 178.290296)
-		(end 370.9875 172.8675)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "e7078ba4-ced1-4da3-aa7f-1bbb6c2ae895")
 	)
 	(zone
 		(net "GND")
