@@ -44,3 +44,10 @@ Time for the case. I've never used onshape before so it took me a little bit to 
 ![tray case](imgs/kbdcase1.png)
 
 **Total time spent: 3h**
+
+# #5 Case pt2
+
+- **Date:** Oct 14 2026
+
+I spent a really long time learning more about onshape. I learned about mate connectors and how to fit everything together, and I spent quite a while mateing everything together and then after doing so I realized some of my dimensions were off, so I had to go back and modify quite a few thigns in the case to make sure that everything will work nicely together.
+![case w/ pcb](imgs/kbdcase2.png)
