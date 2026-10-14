@@ -51,3 +51,5 @@ Time for the case. I've never used onshape before so it took me a little bit to 
 
 I spent a really long time learning more about onshape. I learned about mate connectors and how to fit everything together, and I spent quite a while mateing everything together and then after doing so I realized some of my dimensions were off, so I had to go back and modify quite a few thigns in the case to make sure that everything will work nicely together.
 ![case w/ pcb](imgs/kbdcase2.png)
+
+**Total time spent: 1h 30m**
