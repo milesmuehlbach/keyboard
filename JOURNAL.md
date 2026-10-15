@@ -65,3 +65,9 @@ I also modeled the cap for the rotary encoder.
 ![rotary encoder cap](imgs/rotarycap.png)
 
 **Total time spent: 3h 30m**
+
+# #7 final board yay
+
+I finished!! (for the most part; plate doesn't have stabs because they're not super standard so I'll cad them in when the stabs arrive) 
+I added a material to the case and put together a bom, and did the final assembly!
+![final board](imgs/finalboard.png)
