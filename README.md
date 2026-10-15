@@ -5,7 +5,19 @@ Additionally features a rotary encoder for volume & media playback.
 
 Using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware.
 
-**BOM:** [bom.csv](bom.csv)
+**BOM:** [BOM.csv](BOM.csv)
 
 ![final board](imgs/finalboard.png)
 ![final pcb](imgs/finalpcb.png)
+
+## Bill of Materials
+
+| Item | Price |
+| --- | ---: |
+| [PI Pico Starter Kit](https://www.amazon.com/KEYESTUDIO-Raspberry-Starter-Headers-Breadboard/dp/B0861WJ2DD) | $9.45 |
+| [PCB (jlcPCB)](https://jlcpcb.com) | $23.30 |
+| [EC11 Rotary Encoder](https://keeb.io/products/rotary-encoder-ec11) | $1.99 |
+| [Through-hole 1N4148 Diodes (100-pack)](https://keeb.io/products/1n4148-diodes) | $2.99 |
+| [MX Plate Mount Stabilizers](https://www.amazon.com/DUROCK-Stabilizer-Innovative-Pre-clipped-Stabilizers/dp/B0CTHT34MJ) | $9.99 |
+| [DSA Keycap set](https://www.amazon.com/YMDK-Profile-Keyset-Mechanical-Keyboard/dp/B07GP29DQF) | $22.50 |
+| **Total (before shipping and tax)** | **$70.22** |
