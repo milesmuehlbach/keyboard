@@ -53,3 +53,15 @@ I spent a really long time learning more about onshape. I learned about mate con
 ![case w/ pcb](imgs/kbdcase2.png)
 
 **Total time spent: 1h 30m**
+
+# #6 Case pt3 (plate)
+
+- **Date:** Oct 14 2026
+
+I think the plate was the hardest part of building the case; ensuring I was building it in the right place and getting dimensions and spacing right is really hard. I didn't add spaces for my stabilizers because it's hard to model for the stabs if I don't know exactly which model I'm going to use (I haven't put my bom together yet)
+![case w/ plate](imgs/kbdcase3.png)
+
+I also modeled the cap for the rotary encoder.
+![rotary encoder cap](rotarycap.png)
+
+**Total time spent: 3h 30m**
