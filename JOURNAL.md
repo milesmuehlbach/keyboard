@@ -68,6 +68,10 @@ I also modeled the cap for the rotary encoder.
 
 # #7 final board yay
 
+- **Date:** Oct 15 2026
+
 I finished!! (for the most part; plate doesn't have stabs because they're not super standard so I'll cad them in when the stabs arrive) 
 I added a material to the case and put together a bom, and did the final assembly!
 ![final board](imgs/finalboard.png)
+
+**Total time spent: 30m**
