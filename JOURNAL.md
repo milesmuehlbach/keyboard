@@ -62,6 +62,6 @@ I think the plate was the hardest part of building the case; ensuring I was buil
 ![case w/ plate](imgs/kbdcase3.png)
 
 I also modeled the cap for the rotary encoder.
-![rotary encoder cap](rotarycap.png)
+![rotary encoder cap](imgs/rotarycap.png)
 
 **Total time spent: 3h 30m**
