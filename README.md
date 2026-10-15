@@ -8,3 +8,4 @@ Using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware.
 **BOM:** [bom.csv](bom.csv)
 
 ![final board](imgs/finalboard.png)
+![final pcb](imgs/finalpcb.png)
