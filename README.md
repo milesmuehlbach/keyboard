@@ -1,9 +1,25 @@
 # keyboard
-A mechanical keyboard, designed by me, using [keeb's](https://keeb.hackclub.com) tutorial.
+A mechanical keyboard, designed by me, using [keeb's](https://keeb.hackclub.com) tutorial (for basic overview and guidance; once I knew the general direction to take each step it was mostly independent).
 Mx style switches, in a slightly-larger-than 60% layout, designed with a select few extra keys I deemed important.
 Additionally features a rotary encoder for volume & media playback.
 
 Using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware.
+
+## Firmware setup
+Make sure the rust toolchain is installed. Install the compilation target for your microcontroller; in our case it's a pi pico 1 so it'll be `thumbv6m-none-eabi`
+
+Install rmk deps:
+```sh
+cargo install rmkit
+cargo install flip-link cargo-make
+```
+The firmware is already configured for this specific board layout and pinout, etc. 
+
+Build firmware with 
+```sh
+cargo make uf2 --release
+```
+You'll find the compiled uf2 (which can be loaded normally to the pi pico) at `target/thumbv6m-none-eabi/release/*.uf2`
 
 **BOM:** [BOM.csv](BOM.csv)
 
