@@ -5,6 +5,8 @@ Additionally features a rotary encoder for volume & media playback.
 
 Using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware.
 
+[Onshape Assembly](https://cad.onshape.com/documents/6ce0951954889885430f0539/w/e429278c0dacc60c66f83916/e/a9e79258290a2b0808a28da1?renderMode=0&uiState=6ad5325657fff16aba3cf861)
+
 ## Firmware setup
 Make sure the rust toolchain is installed. Install the compilation target for your microcontroller; in our case it's a pi pico 1 so it'll be `thumbv6m-none-eabi`
 
