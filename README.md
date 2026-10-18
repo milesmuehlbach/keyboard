@@ -25,6 +25,7 @@ You'll find the compiled uf2 (which can be loaded normally to the pi pico) at `t
 
 ![final board](imgs/finalboard.png)
 ![final pcb](imgs/finalpcb.png)
+![pcb layout](imgs/pcblayout.png)
 
 ## Bill of Materials
 
