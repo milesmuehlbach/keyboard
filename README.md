@@ -36,4 +36,7 @@ You'll find the compiled uf2 (which can be loaded normally to the pi pico) at `t
 | [Through-hole 1N4148 Diodes (100-pack)](https://keeb.io/products/1n4148-diodes) | $2.99 |
 | [MX Plate Mount Stabilizers](https://www.amazon.com/DUROCK-Stabilizer-Innovative-Pre-clipped-Stabilizers/dp/B0CTHT34MJ) | $9.99 |
 | [DSA Keycap set](https://www.amazon.com/YMDK-Profile-Keyset-Mechanical-Keyboard/dp/B07GP29DQF) | $22.50 |
-| **Total (before shipping and tax)** | **$70.22** |
+| [Cherry MX Tactile Brown RGB GEN 2 switches (2 packs)](https://www.microcenter.com/product/708639/cherry-mx-tactile-brown-rgb-gen-2-key-switches) | $39.98 |
+| [M3 brass heat-set inserts (3 mm long; 50-pack)](https://www.adafruit.com/product/4256) | $5.95 |
+| **Subtotal** | **$116.15** |
+
