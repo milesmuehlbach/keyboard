@@ -1,11 +1,19 @@
 # keyboard
+<img width="901" height="416" alt="image" src="https://github.com/user-attachments/assets/9566c9a9-2d5e-467e-82ee-207d5c80cc9b" />
+<img width="1624" height="987" alt="image" src="https://github.com/user-attachments/assets/189141ad-35ee-4afb-8456-1304c5ef1c0f" />
+![pcb layout](imgs/pcblayout.png)
+
 A mechanical keyboard, designed by me, using [keeb's](https://keeb.hackclub.com) tutorial (for basic overview and guidance; once I knew the general direction to take each step it was mostly independent).
 Mx style switches, in a slightly-larger-than 60% layout, designed with a select few extra keys I deemed important.
 Additionally features a rotary encoder for volume & media playback.
 
-Using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware.
+I built this project because I wanted a good project to get into hardware/pcb design and all of the projects I'd previously thought of were too basic to waste the money + resources on making them real. Someone I knew had done some sort of custom keyboard, but I think it was moreso a scenario of him buying the pcb and the switches and just putting em together, etc, but I thought it was really cool to make your own keyboard so it was kind of in the back of my mind. Either way, I needed a mechanical keyboard and after realizing that it was somewhat attainable I set off to it. I'd messed with KICAD before in the past so I knew that was the way to go, and I was having trouble running fusion on my laptop so onshape it is! 
+
+I'm using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware, located in `firmware/`
+I built the PCB in KICAD, which is in `pcb/`
 
 [Onshape Assembly](https://cad.onshape.com/documents/6ce0951954889885430f0539/w/e429278c0dacc60c66f83916/e/a9e79258290a2b0808a28da1?renderMode=0&uiState=6ad5325657fff16aba3cf861)
+> you can also find step files and other various models in `3dmodels/`
 
 ## Firmware setup
 Make sure the rust toolchain is installed. Install the compilation target for your microcontroller; in our case it's a pi pico 1 so it'll be `thumbv6m-none-eabi`
@@ -23,11 +31,7 @@ cargo make uf2 --release
 ```
 You'll find the compiled uf2 (which can be loaded normally to the pi pico) at `target/thumbv6m-none-eabi/release/*.uf2`
 
-**BOM:** [BOM.csv](BOM.csv)
-
-![final board](imgs/finalboard.png)
-![final pcb](imgs/finalpcb.png)
-![pcb layout](imgs/pcblayout.png)
+**BOM:** [BOM.csv](BOM.csv), or view it below:
 
 ## Bill of Materials
 
