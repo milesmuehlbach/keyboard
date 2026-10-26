@@ -11,6 +11,7 @@ Additionally features a rotary encoder for volume & media playback.
 I built this project because I wanted a good project to get into hardware/pcb design and all of the projects I'd previously thought of were too basic to waste the money + resources on making them real. Someone I knew had done some sort of custom keyboard, but I think it was moreso a scenario of him buying the pcb and the switches and just putting em together, etc, but I thought it was really cool to make your own keyboard so it was kind of in the back of my mind. Either way, I needed a mechanical keyboard and after realizing that it was somewhat attainable I set off to it. I'd messed with KICAD before in the past so I knew that was the way to go, and I was having trouble running fusion on my laptop so onshape it is! 
 
 I'm using [RMK](https://rmk.rs/docs/user_guide/guide_overview) for firmware, located in `firmware/`
+
 I built the PCB in KICAD, which is in `pcb/`
 
 [Onshape Assembly](https://cad.onshape.com/documents/6ce0951954889885430f0539/w/e429278c0dacc60c66f83916/e/a9e79258290a2b0808a28da1?renderMode=0&uiState=6ad5325657fff16aba3cf861)
