@@ -75,3 +75,11 @@ I added a material to the case and put together a bom, and did the final assembl
 ![final board](imgs/finalboard.png)
 
 **Total time spent: 30m**
+
+# #8 fixing things for review
+
+- **Date:** Oct 25 2026
+
+After being rejected once, I added chamfers to my case to improve the aesthetic and also added more 3dmodels to my repo, and improved a few other things.
+<img width="304" height="361" alt="image" src="https://github.com/user-attachments/assets/5694a9fa-a41d-42be-ae68-d81ec922d5d3" />
+
