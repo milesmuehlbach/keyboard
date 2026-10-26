@@ -1,6 +1,7 @@
 # keyboard
 <img width="901" height="416" alt="image" src="https://github.com/user-attachments/assets/9566c9a9-2d5e-467e-82ee-207d5c80cc9b" />
 <img width="1624" height="987" alt="image" src="https://github.com/user-attachments/assets/189141ad-35ee-4afb-8456-1304c5ef1c0f" />
+
 ![pcb layout](imgs/pcblayout.png)
 
 A mechanical keyboard, designed by me, using [keeb's](https://keeb.hackclub.com) tutorial (for basic overview and guidance; once I knew the general direction to take each step it was mostly independent).
