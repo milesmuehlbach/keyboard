@@ -101,3 +101,9 @@ anyway i really like these keycaps and want to keep them so I turned it into a h
 <img width="728" height="427" alt="image" src="https://github.com/user-attachments/assets/37068d65-d5f3-45f4-a7ae-842401c23ff8" />
 
 **Total time spent: 20m**
+
+# #10 solder header pins to pi pico
+
+the pi pico arrived, so I decided to go ahead and solder the header pins using my pi pico! nothing much else to say, pretty straightforward.
+<img width="1536" height="2048" alt="DDFC1BAA-D02E-41AC-B5F8-4FA75D50E083_1_102_o" src="https://github.com/user-attachments/assets/79a034bd-14b9-4f85-bb3f-9d2af8a9bfe2" />
+<img width="2048" height="1536" alt="5AFA7367-BCC9-4AC8-A2F7-C10A07CA12C7_1_102_o" src="https://github.com/user-attachments/assets/0089a769-ced2-4a8c-b718-fc0f0371c3ae" />
