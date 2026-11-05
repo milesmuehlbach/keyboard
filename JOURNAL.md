@@ -97,6 +97,7 @@ issue is.. i maybe sorta kinda accidentally bought cherry profile instead of dsa
 anyway i really like these keycaps and want to keep them so I turned it into a happy accident! I modelled a 5 degree incline to my case!
 
 <img width="865" height="414" alt="image" src="https://github.com/user-attachments/assets/cdf25aac-a0da-46a4-905a-bcb057e56d43" />
+
 <img width="728" height="427" alt="image" src="https://github.com/user-attachments/assets/37068d65-d5f3-45f4-
 a7ae-842401c23ff8" />
 
