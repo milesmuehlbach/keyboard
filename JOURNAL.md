@@ -85,3 +85,19 @@ After being rejected once, I added chamfers to my case to improve the aesthetic 
 <img width="304" height="361" alt="image" src="https://github.com/user-attachments/assets/5694a9fa-a41d-42be-ae68-d81ec922d5d3" />
 
 **Total time spent: 5m**
+
+# #9 oh shit i bought the wrong thing
+
+- **Date:** Nov 4 2026
+  
+so i went to micro center to buy my switches and keycaps. i chose cherry mx brown plus these super awesome keychron keys (coming in a later journal ;))
+
+issue is.. i maybe sorta kinda accidentally bought cherry profile instead of dsa, which means the height of the keycaps isn't uniform across the different rows. it was open box on clearance okay??
+
+anyway i really like these keycaps and want to keep them so I turned it into a happy accident! I modelled a 5 degree incline to my case!
+
+<img width="865" height="414" alt="image" src="https://github.com/user-attachments/assets/cdf25aac-a0da-46a4-905a-bcb057e56d43" />
+<img width="728" height="427" alt="image" src="https://github.com/user-attachments/assets/37068d65-d5f3-45f4-
+a7ae-842401c23ff8" />
+
+**Total time spent: 20m**
