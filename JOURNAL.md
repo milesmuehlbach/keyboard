@@ -138,4 +138,26 @@ so i realized that when I added the incline to my tray i added it in the wrong d
 
 **Total time spent: 26m**
 
+# #14 case assembly
+
+the case finished printing so I went through the incredibly painful process of removing the supports, then i attached the two halves together
+
+<img width="768" height="1024" alt="E3BB3B3F-F775-41C0-BBB3-F5E2EA6E3707_1_105_c" src="https://github.com/user-attachments/assets/d7b647fa-dfd6-4273-90e1-853399b95170" />
+<img width="1024" height="768" alt="F2C330B2-7B80-4435-996E-81DE8BD86657_1_105_c" src="https://github.com/user-attachments/assets/613ef8a8-59ce-4097-8844-a6e611bdca35" />
+<img width="1536" height="2048" alt="7D26F956-706C-4F5C-AB30-D46CA39AB2AC_1_102_o" src="https://github.com/user-attachments/assets/bd8071cb-5e6a-4dd5-9579-e4f2e690c60f" />
+
+**Total time spent: 54m**
+
+# #15 final keyboard assembly!!!!
+
+the last of my switches finally came so I did the full assembly!! I first attached all of the switches to the plate, then soldered each onto the board, then attached all the keycaps and made sure the firmware worked!   
+somehow, and I don't know how, everything just worked! except for the stabs; they're super stiff which means that i can't use any keys rn that use the stabs.. which are kind of some of the most important keys so I can't really use the keyboard just yet 💀
+
+<img width="1024" height="768" alt="1404F7F5-916E-4588-AEF5-6D8C4357FE8E_1_105_c" src="https://github.com/user-attachments/assets/4635345d-7cc4-4472-ab06-8dd744077668" />
+<img width="2048" height="1536" alt="B4464644-BDF8-4B5B-B0A5-4022189416B5_1_102_o" src="https://github.com/user-attachments/assets/2dd028de-3180-4082-ade9-cbdf76f71189" />
+
+the stabs had these little notches that I didn't cad into the plate so I had to cut out of the plate with pliers lol
+<img width="768" height="1024" alt="A23FC60E-1DD2-44DF-A335-D7F561D46438_1_105_c" src="https://github.com/user-attachments/assets/de9c133c-c623-4a65-a13b-dbe2bf0025da" />
+
+**Total time spent: 2h 13m**
 
