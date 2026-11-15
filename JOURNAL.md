@@ -130,4 +130,12 @@ I added the plate mount stab holes to my plate, and also realized that my plate 
 
 **Total time spent: 32m**
 
+# #13 tray revision
+
+so i realized that when I added the incline to my tray i added it in the wrong direction and so i had to completely reverse it. I also revised it to be slightly better for support, and I also split the tray into two as my 3dp bed can't fit the full thing 🥲
+
+<img width="884" height="505" alt="image" src="https://github.com/user-attachments/assets/890d5773-8f1f-46e5-993b-ee28aa6090c4" />
+
+**Total time spent: 26m**
+
 
