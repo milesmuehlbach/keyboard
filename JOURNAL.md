@@ -110,3 +110,14 @@ the pi pico arrived, so I decided to go ahead and solder the header pins using m
 <img width="2048" height="1536" alt="5AFA7367-BCC9-4AC8-A2F7-C10A07CA12C7_1_102_o" src="https://github.com/user-attachments/assets/0089a769-ced2-4a8c-b718-fc0f0371c3ae" />
 
 **Total time spent: 13m**
+
+# #11 pcb arried
+
+my pcb arrived!!! I soldered the diodes, pi pico, and rotary encoder onto the pcb. I still need to recieve the rest of my switches before i can do full assembly but they should be arriving tomorrow!
+
+<img width="1536" height="2048" alt="4D3D7D02-E7A4-4580-B4DC-FF161DE46A90_1_102_o" src="https://github.com/user-attachments/assets/3a77c91d-7f2f-4b5f-bc67-d1e8d7a247fc" />
+<img width="1536" height="2048" alt="6C23BD46-046C-42B3-AE3D-C5CE6170A65B_1_102_o" src="https://github.com/user-attachments/assets/a2c9db4c-a5f4-4a02-a52a-59bf1e17fe19" />
+<img width="1536" height="2048" alt="DEEDD0DC-6DBF-4530-95C9-DECB1D83EEF0_1_102_o" src="https://github.com/user-attachments/assets/fa74136f-3276-43cb-b332-f7e08172f243" />
+
+
+**Total time spent: 1h 27m**
