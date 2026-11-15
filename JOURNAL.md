@@ -121,3 +121,13 @@ my pcb arrived!!! I soldered the diodes, pi pico, and rotary encoder onto the pc
 
 
 **Total time spent: 1h 27m**
+
+# #12 stabs in plate
+
+I added the plate mount stab holes to my plate, and also realized that my plate is larger than my 3dp bed so i had to add a split in the plate (it'll be fineeee?)
+
+<img width="951" height="579" alt="image" src="https://github.com/user-attachments/assets/51ce55ec-a6d2-429e-8195-55e0f0eb6486" />
+
+**Total time spent: 32m**
+
+
