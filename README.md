@@ -1,8 +1,11 @@
 # keyboard
+<img width="1024" height="768" alt="B4464644-BDF8-4B5B-B0A5-4022189416B5_1_105_c" src="https://github.com/user-attachments/assets/3d56700f-6672-41ce-aa7e-645158a649db" />
 <img width="901" height="416" alt="image" src="https://github.com/user-attachments/assets/9566c9a9-2d5e-467e-82ee-207d5c80cc9b" />
 <img width="1624" height="987" alt="image" src="https://github.com/user-attachments/assets/189141ad-35ee-4afb-8456-1304c5ef1c0f" />
 
 ![pcb layout](imgs/pcblayout.png)
+
+[demo video \(osu approved\)](https://youtube.com/shorts/LzJ_tnViJiM?feature=share)
 
 A mechanical keyboard, designed by me, using [keeb's](https://keeb.hackclub.com) tutorial (for basic overview and guidance; once I knew the general direction to take each step it was mostly independent).
 Mx style switches, in a slightly-larger-than 60% layout, designed with a select few extra keys I deemed important.
